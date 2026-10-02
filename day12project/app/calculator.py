@@ -23,4 +23,3 @@ def divide(a, b):
 def percentage(a, b):
     logging.info(f"calculating {a}% of {b}")
     return a/100 * b
-        

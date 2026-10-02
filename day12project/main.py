@@ -11,10 +11,11 @@ while True:
     print("3. Multiply")
     print("4. Divide")
     print("5. Percentage")
-    print("6. Exit")
+    print("6. Discount")
+    print("7. Exit")
 
     choice = input("Enter your choice: ")
-    if choice == "6":
+    if choice == "7":
         print("Goodbye!")
         break
 
