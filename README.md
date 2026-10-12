@@ -61,7 +61,7 @@ This repository contains my hands-on journey through:
 
 | Area                | Progress      |
 | ------------------- | ------------- |
-| 🐍 Python           | ░░░░░░░░░░ 0% |
+| 🐍 Python           | ░░░░░░░░░░ % |
 | 🧩 DSA              | ░░░░░░░░░░ 0% |
 | 📊 Machine Learning | ░░░░░░░░░░ 0% |
 | 🧠 Deep Learning    | ░░░░░░░░░░ 0% |
